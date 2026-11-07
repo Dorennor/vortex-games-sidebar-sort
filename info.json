@@ -1,0 +1,8 @@
+{
+  "id": "Sort Games Alphabetically",
+  "namespace": "games-sidebar-sort",
+  "name": "Sort Games Alphabetically",
+  "author": "Volodymyr Rud",
+  "version": "1.0.0",
+  "description": "Keeps the games in Vortex's left sidebar sorted alphabetically by name."
+}
